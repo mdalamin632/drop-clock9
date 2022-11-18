@@ -1,0 +1,23 @@
+#main-class{
+    width: 250px;
+    margin: auto;
+    margin-top: 290px;
+}
+
+#left{
+    position: absolute;
+    /* font-size: 50px; */
+}
+
+#right{
+   position: relative;
+   right: -70px;
+   top: -7px;
+
+}
+
+#hand{
+    color: tomato;
+    font-size: 50px;
+    /* display: none; */
+}
